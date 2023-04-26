@@ -77,16 +77,26 @@
 }
 
 .abilities h2{
-    color: black;
+    color: red;
 }
 
-.abilities li p{
+.abilities ul li{
+    color: #090827;
+}
+
+.abilities ol li{
+    color: #090827;
+}
+
+.abilities p{
     font-size: 20px;
-    color: #FFF;
+    color: #090827;
+    font-weight: bold;
+    font-style: italic;
 }
 
 .form{
-    background-color: #45a9bb;
+    background-color: #bb454b;
 }
 
 .header-nav{
